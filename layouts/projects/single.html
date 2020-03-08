@@ -1,6 +1,14 @@
 {{ define "main" }}
 
+{{ $cols := split .RawContent "#split#" }}
+{{ $intro := index ($cols) 0 }}
+{{ $ingredients := index ($cols) 1 }}
+{{ $instructions := index ($cols) 2 }}
+
 <h1>{{ .Title }}</h1>
-{{ .Content }}
+<p>{{ $intro }}</p>
+<p>{{ $ingredients }}</p>
+<p>{{ $instructions }}</p>
+
 
 {{ end }}
