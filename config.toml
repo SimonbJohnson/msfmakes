@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "MSF Makes"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[permalinks]
+  projects = "/:filename/"
+
+[params]
+  homeText = "You just made a Hugo blog from scratch."
+
