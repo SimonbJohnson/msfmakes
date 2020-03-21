@@ -5,7 +5,18 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [permalinks]
   projects = "/:filename/"
+  about = "/:filename/"
 
-[params]
-  homeText = "You just made a Hugo blog from scratch."
-
+[menu]
+  [[menu.main]]
+    name = "PROJECTS"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "MAKERS"
+    url = "/makers/"
+    weight = 2
+  [[menu.main]]
+    name = "ABOUT"
+    url = "/about/"
+    weight = 3
