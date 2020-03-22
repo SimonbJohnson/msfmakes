@@ -22,7 +22,7 @@ Working with Dr Aziz, we refined the choice of medical supplies for the backpack
 
 We also added a booklet of key MSF protocols on proper use and dosing of drugs to provide a portable reference for backpack wearers. 
 
-Referent’s tip: This recipe includes a basic list of contents for the backpacks, but this needs to be adapted to the specific needs of a given population. There is no one-size-fits-all runaway backpack appropriate for every context. 
+{{< referentstip "This recipe includes a basic list of contents for the backpacks, but this needs to be adapted to the specific needs of a given population. There is no one-size-fits-all runaway backpack appropriate for every context." >}} 
 
 ### Assessing product pros and cons 
 
@@ -38,16 +38,15 @@ Rather than creating and shipping the backpacks centrally, we sourced them from 
 
 Compiling the contents locally helped to ensure that there would be readily available replacements for any pieces and also helped with creating buy-in from the team in Aburoc.  
 
-Referent’s tip: Maintenance is simple, but important. It can be included it in the checklist of whoever monitors your pharmacy stock. It is vital that the medication in the bags has not passed its expiry date. Bags should always be ready for ‘grab and go’. 
+{{< referentstip "Maintenance is simple, but important. It can be included it in the checklist of whoever monitors your pharmacy stock. It is vital that the medication in the bags has not passed its expiry date. Bags should always be ready for ‘grab and go’." >}}  
 
 ### Part 5: Training staff in Aburoc 
 
 Dr Aziz supervised the training of 10 key members of staff who would be responsible for carrying and using the backpacks in the event of a sudden population movement. The group included doctors, clinical officers and senior nurses, nurse assistants and community health workers, all of whom were already trained in MSF protocols. The group was responsible for maintaining the backpacks and ensuring that any drugs were in date.  
 
-In the months that followed, the group continued to receive quarterly follow-up refreshment courses to ensure the packs were used properly.  
+In the months that followed, the group continued to receive quarterly follow-up refreshment courses to ensure the packs were used properly.   
 
-Referent’s tip: As soon the backpacks are in stock, staff need to be involved in decision-making about who will carry them and accompany people as they flee. This needs to be voluntary. Once people have put themselves forward, it’s vital that they are supported and trained properly, ready for whenever the backpacks are needed. 
-
+{{< referentstip "As soon the backpacks are in stock, staff need to be involved in decision-making about who will carry them and accompany people as they flee. This needs to be voluntary. Once people have put themselves forward, it’s vital that they are supported and trained properly, ready for whenever the backpacks are needed." >}}  
  
 ### Part 6: Successful field use of new backpacks 
 
@@ -55,12 +54,10 @@ We did not know when the bags would prove useful. In April 2017, there was an ou
 
 Now, the runaway backpack is a concept with several variations and is used in a range of MSF contexts. OCBA have several projects that are integrating the backpacks into their stocks. 
 
-Active Learning Component  
-
-Are you in a location where evacuation is likely?  
+{{< activelearning `Are you in a location where evacuation is likely?  
 
 If there is displacement, is it likely that MSF medical staff or community health workers will be amongst the displaced communities? 
 
-If displacement occurs in your context, what might you include in a runaway backpack? 
+If displacement occurs in your context, what might you include in a runaway backpack?` >}} 
 
-Implementing this design requires review and coordination with HQ. Note that, at the time of going to print, OCBA (Jose Luis Dvorzak, Decentralized Model of Care Advisor) has validated the contents of this feature. If you have any technical questions, please get in touch with your medical / public health department.
+*Implementing this design requires review and coordination with HQ. Note that, at the time of going to print, OCBA (Jose Luis Dvorzak, Decentralized Model of Care Advisor) has validated the contents of this feature. If you have any technical questions, please get in touch with your medical / public health department.*

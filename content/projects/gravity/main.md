@@ -56,12 +56,10 @@ The cost of installing the full system was £19,675 (including installation of e
 
  
 
-Active Learning Component  
-
-Are you in a location where source water quality has high turbidity or cloudiness? 
+{{< activelearning `Are you in a location where source water quality has high turbidity or cloudiness? 
 
 Is the current treatment to remove turbidity working well?  
 
-Can a gravity-fed filtration system improve access to clean water?  
+Can a gravity-fed filtration system improve access to clean water?` >}}  
 
-Implementing this design requires review and coordination with HQ. Note that, at the time of going to print, OCA (Biserka Pop-Stefanija, WatSan Advisor) has validated the contents of this feature. If you have any technical questions, please get in touch with your WatSan Advisor. 
+*Implementing this design requires review and coordination with HQ. Note that, at the time of going to print, OCA (Biserka Pop-Stefanija, WatSan Advisor) has validated the contents of this feature. If you have any technical questions, please get in touch with your WatSan Advisor.* 

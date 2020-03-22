@@ -21,7 +21,9 @@
 				<div class="approval approval{{ .Params.paris }}">P</div>
 			</div>
 			{{ (.Resources.GetMatch "intro.md").Content }}
-			{{ (.Resources.GetMatch "ingredients.md").Content }}
+			<div id="ingredients">
+				{{ (.Resources.GetMatch "ingredients.md").Content }}
+			</div>
 		</div>
 		<div class="col-md-8">
 			<div>{{ (.Resources.GetMatch "main.md").Content }}</div>

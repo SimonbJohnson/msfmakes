@@ -167,7 +167,7 @@ a:hover, .navlink {
 	min-height:300px;
 }
 
-#projectpage li {
+#ingredients li {
 	list-style-type: none;
 	border-bottom: 1px solid #000;
 	padding-bottom:5px;
@@ -175,14 +175,21 @@ a:hover, .navlink {
 	font-size:0.9em;
 }
 
-#projectpage ul {
+#ingredients ul {
 	padding-left:0px;
+}
+
+.activelearningcomponent {
+	background-color:#f4f4f8;
+	padding:20px;
+	margin-bottom:10px;
 }
 
 .referentstip {
 	background-color:#fbe07c;
 	padding:20px;
 	font-weight:700;
+	margin-bottom:10px;
 }
 
 .referentstipimg {
@@ -208,7 +215,7 @@ a:hover, .navlink {
 	color:#ed1c24;
 }
 
-.approvaly {
+.approvala {
 	color:#fbe07c;
 }
 

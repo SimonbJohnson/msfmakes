@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="row">
 {{ range .Pages }}
-	{{ partial "maker_profile.html" (dict "context" . "firstname" .Params.firstname "lastname" .Params.lastname "project" .Params.project "image" .Params.image "bio" .Content) }}        	
+	{{ partial "maker_profile.html" (dict "context" . "firstname" .Params.firstname "lastname" .Params.lastname "project" .Params.project "projecturl" .Params.projecturl "image" .Params.image "bio" .Content) }}        	
 {{ end }}
 </div>
 
